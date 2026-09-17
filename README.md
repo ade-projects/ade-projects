@@ -1,6 +1,6 @@
 Hello!
 
-I'm Ade, a tech enthusiast and student from around the world, passionate about coding and problem-solving.
+I'm Ade, a student from around the world passionate about coding and problem-solving.
 
 - I'm currently working on projects as part of my studies at 42, focusing on software development, problem-solving, algorithms, and systems programming. Improving my skills through hands-on projects and collaborative learning.
 
