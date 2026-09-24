@@ -29,17 +29,6 @@ I'm Ade, a student from around the world passionate about coding and problem-sol
 </br>
 
 <div align="center">
-
-### My stats:
-
-![Stats Card](https://stats.pphat.top/stats?username=ade-projects&avatar_mode=radar&theme=react&data_border_style=solid)
-
-</div>
-
-</br>
-</br>
-
-<div align="center">
   <h3>Connect with me:</h3>
   <a href="mailto:ade-projects@proton.me">
     <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
